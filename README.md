@@ -7,5 +7,5 @@
 <!----Separador de las notas---->
 
 <!----Separador---->
-Esta pagina de prueba.
+Se debe de descargar el repositorio y tener instalado NodeJS en conjunto con NPM para poder hacer que la aplicacion funcione.
 <!----Separador---->
