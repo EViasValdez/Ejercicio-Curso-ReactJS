@@ -47,7 +47,7 @@ body {
 }
 
 .container-characters {
-	  display: grid;
+	display: grid;
     grid-template-columns: auto auto auto;
     width: 100%;
     padding-bottom: 50px;
@@ -100,7 +100,7 @@ body {
 }
 
 .character-container div:last-child p {
-  text-align: left;
+    text-align: left;
 }
 
 .character-container img {
