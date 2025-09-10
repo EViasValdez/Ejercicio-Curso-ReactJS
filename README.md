@@ -7,5 +7,5 @@
 <!----Separador de las notas---->
 
 <!----Separador---->
-Se debe de descargar el repositorio y tener instalado NodeJS en conjunto con NPM para poder hacer que la aplicacion funcione.
+Se debe de tener instalado NodeJS en conjunto con NPM para poder hacer que la aplicacion funcione.
 <!----Separador---->
