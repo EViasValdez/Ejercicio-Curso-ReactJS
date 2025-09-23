@@ -6,6 +6,6 @@
 **- Aun por ser puestas.**
 <!----Separador de las notas---->
 
-<!----Separador---->
+<!----Detalles---->
 Se debe de tener instalado NodeJS en conjunto con NPM para poder hacer que la aplicacion funcione.
-<!----Separador---->
+<!----Separador de los detalles---->
