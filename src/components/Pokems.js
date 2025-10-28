@@ -9,7 +9,7 @@ export default function Pokems(props) {
     <div className="names">
       <h1>Nombres</h1>
         <span className="back-home" onClick={resetNames}>
-            Regresar al inicio
+            Regresar a la pagina de inicio
         </span>
         <div className="container-characters">
           {names.map((names, index) => (
