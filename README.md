@@ -3,9 +3,9 @@
 <!----Notas---->
 **Notas:**
 
-**- Aun por ser puestas.**
+**- Se debe de tener instalado NodeJS en conjunto con NPM para poder hacer que la aplicación funcione de manera correcta.**
 <!----Separador de las notas---->
 
 <!----Detalles---->
-Se debe de tener instalado NodeJS en conjunto con NPM para poder hacer que la aplicación funcione de manera correcta.
+Por ser puestos.
 <!----Separador de los detalles---->
