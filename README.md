@@ -1,5 +1,9 @@
 # Pagina usada como parte del curso de ReactJS
 
+<!----Descripción---->
+Por ser escrita.
+<!----Separador de la descripción ---->
+
 <!----Notas---->
 **Notas:**
 
