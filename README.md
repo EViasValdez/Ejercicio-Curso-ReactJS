@@ -1,7 +1,7 @@
 # Pagina usada como parte del curso de ReactJS
 
 <!----Descripción---->
-Por ser escrita.
+Este fue el ultimo proyecto realizado para un curso de ReactJS.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
