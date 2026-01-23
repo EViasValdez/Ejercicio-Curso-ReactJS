@@ -11,5 +11,5 @@ Este fue el ultimo proyecto realizado para un curso de ReactJS.
 <!----Separador de las notas---->
 
 <!----Detalles---->
-Todavia por ser puestos.
+Todavía por ser puestos.
 <!----Separador de los detalles---->
