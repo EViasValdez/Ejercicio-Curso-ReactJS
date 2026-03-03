@@ -2,7 +2,7 @@
 
 <!----Descripción---->
 Este fue el ultimo proyecto realizado para un curso de ReactJS.
-<!----Separador de la descripción ---->
+<!----Separador de la descripción---->
 
 <!----Notas---->
 **Notas:**
