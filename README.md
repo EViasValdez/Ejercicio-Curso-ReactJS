@@ -1,4 +1,4 @@
-# Pagina usada como parte del curso de ReactJS
+# Pagina y proyecto parte del curso de ReactJS
 
 <!----Descripción---->
 Este fue el proyecto final realizado para un curso de ReactJS.
