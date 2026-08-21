@@ -6,7 +6,7 @@ Este fue el proyecto final realizado para un curso de ReactJS.
 
 <!----Notas---->
 **Notas:**
-**- Se necesita tener instalado NodeJS y NPM para poder hacer que la aplicación funcione de correctamente.**
+**- Se necesita tener instalado NodeJS y NPM para poder hacer que la aplicación funcione correctamente.**
 <!----Separador de las notas---->
 
 <!----Detalles---->
