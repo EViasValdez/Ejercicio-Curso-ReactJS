@@ -1,7 +1,7 @@
 # Pagina y proyecto parte del curso de ReactJS
 
 <!----Descripción---->
-Este fue el proyecto final realizado para un curso de ReactJS.
+Este fue el proyecto final realizado para el curso de ReactJS el mismo que se muestra en este enlace: [https://github.com/EViasValdez/Ejercicio-Curso-ReactJS](https://github.com/EViasValdez/Ejercicio-Curso-ReactJS).
 <!----Separador de la descripción---->
 
 <!----Notas---->
